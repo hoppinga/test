@@ -1,4 +1,4 @@
-magnitude,cdi,mmi,sig,nst,dmin,gap,depth,latitude,longitude,Year,Month,tsunami
+MAGITUDE,cdi,mmi,sig,nst,dmin,gap,depth,latitude,longitude,Year,Month,tsunami
 7,8,7,768,117,0.509,17,14,-9.7963,159.596,2022,11,1
 6.9,4,4,735,99,2.229,34,25,-4.9559,100.738,2022,11,0
 7,3,3,755,147,3.125,18,579,-20.0508,-178.346,2022,11,1
