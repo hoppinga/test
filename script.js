@@ -1,6 +1,6 @@
 // Sample products data
 const products = [
-    { id: 1, name: 'Laptop computer', price: 999.99, emoji: '💻' },
+    { id: 1, name: 'Laptop', price: 999.99, emoji: '💻' },
     { id: 2, name: 'Smartphone', price: 699.99, emoji: '📱' },
     { id: 3, name: 'Headphones', price: 199.99, emoji: '🎧' },
     { id: 4, name: 'Tablet', price: 399.99, emoji: '📱' },
