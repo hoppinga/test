@@ -20,3 +20,4 @@
 USE CATALOG `workspace`;
 USE SCHEMA `default`;
 
+SELECT * from sample_aggregation_pipeline_test;
